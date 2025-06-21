@@ -10,7 +10,7 @@ Mods:
 
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
-| 1 | Return To Castle Ear1hstein | Released | v0.1 |
+| 1 | [Return To Castle Ear1hstein](https://github.com/Ear1h/Ear1hCommunityWorkshop/releases/tag/v1) | Released | v0.1|
 
 **If you want to support me (gandona) and my creativity:**
 
