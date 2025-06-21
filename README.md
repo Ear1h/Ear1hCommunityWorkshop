@@ -1,4 +1,4 @@
-# Ear1hCommunityWorkshop
+# Ear1h Community Workshop
 This is where I post and store my DOOM related projects.
 
 **Hi! I'm Ear1h - a level designer, modder and a beginner programmer who wants to be a good game designer and programmer.**
