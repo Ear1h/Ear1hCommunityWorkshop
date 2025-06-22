@@ -5,7 +5,8 @@ This is where I post and store my DOOM related projects.
 
 My Wiki page: [Doom Wiki](https://doomwiki.org/wiki/Ear1h)
 
-**List of my projects:**
+# **List of my projects:**
+
 Mods:
 
 | №  | Project name | Status | Version |
