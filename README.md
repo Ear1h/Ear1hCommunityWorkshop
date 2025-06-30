@@ -5,9 +5,24 @@ This is where I post and store my DOOM related projects.
 
 My Wiki page: [Doom Wiki](https://doomwiki.org/wiki/Ear1h)
 
+### You can understand by the prefix in the repository name to see what is stored there:
+- `MOD-` - This repository contains the gameplay mod;
+- `WAD-` - This repository contains a map or an entire megawad related to Doom;
+- `RES-` - This repository contains resources I've created for later use in mapping or modding.
+- `Quake-` - This repository contains some software related to Doom.
+- `RTCW-` - This repository contains some software related to Doom.
+- `CPL-` - This repository contains community projects hosted by me.
+- `OTH-` - This repository contains all sorts of other things.
+
 # **List of my projects:**
 
-Mods:
+Wads: (`WAD-`):
+
+| №  | Project name | Status | Version |
+| - | ------------ | ------- | ------- |
+| 1 | The Last Day On Earth (🏆EMC2025 Winner: 5-th place🏆)| WAITING FOR RELEASE | v1|
+
+RTCW: (`RTCW-`):
 
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
