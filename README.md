@@ -20,7 +20,7 @@ Wads: (`WAD-`):
 
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
-| 1 | [The Last Day On Earth (🏆EMC2025 Winner: 5-th place🏆)](https://github.com/Ear1h/WAD-The-Last-Day-On-Earth-EMC2025)| WAITING FOR RELEASE | v1|
+| 1 | [The Last Day On Earth (🏆EMC2025 Winner: 5-th place🏆)](https://github.com/Ear1h/WAD-The-Last-Day-On-Earth-EMC2025)| ✅RELEASED | v1|
 
 RTCW: (`RTCW-`):
 
