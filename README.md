@@ -22,7 +22,7 @@ Wads: (`WAD-`):
 | - | ------------ | ------- | ------- |
 | 1 | [The Last Day On Earth (🏆EMC2025 Winner: 5-th place🏆)](https://github.com/Ear1h/WAD-The-Last-Day-On-Earth-EMC2025)| ✅RELEASED | v1|
 | 2 | Old Ear1h's Levels|✅RELEASED|v1|
-| 3 | Gravitron|✅RELEASED|v1|
+| 3 | [Gravitron](https://github.com/Ear1h/WAD-GRAVITRON)|✅RELEASED|v2|
 | 4 | Return to Shattered Nazi Dream (RRSP#3)|✅RELEASED|v1|
 | 5 | Abother UAC-Like Base (RRSP#3)|✅RELEASED|v1|
 | 6 | Vengeance (RRSP#3)|✅RELEASED|v1|
