@@ -30,7 +30,7 @@ Wads: (`WAD-`):
 | 8 | Slipgate Complex (RRSP#3)|✅RELEASED|v1|
 | 9 | Pumping Station (RRSP#3)|✅RELEASED|v1|
 | 10 | Ancient Chambers (RRSP#3)|✅RELEASED|v1|
-| 11 | 3 Years of the ENDOOM Community|✅RELEASED|v1|
+| 11 | [3 Years of the ENDOOM Community](https://github.com/Ear1h/WAD-3years)|✅RELEASED|v2|
 | 12 | [Citadel (E4M5 for J.O.P.A.)](https://github.com/Ear1h/WAD-Citadel)|✅RELEASED|v1.1|
 | 13 | MetaLLL (MAP11 for Shivering Spasm)|✅RELEASED|v1|
 | 14 | Zavod Toxicov (MAP16 for DBP69: Caustic Industry)|✅RELEASED|v1|
