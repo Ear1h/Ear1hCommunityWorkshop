@@ -40,8 +40,8 @@ Wads: (`WAD-`):
 | 18-20 | My Maps for Blitz: Race Against Time|✅RELEASED|v1|
 | 21 | Earetic (E2M9 for Fastest Shovels 16: Heretics vs Pineapples|✅RELEASED|v1|
 | 22 | [Homyachki in My Heart (Happy BD, Track Federal)](https://github.com/Ear1h/WAD-Homyachki)|✅RELEASED|v1|
-| 23 | Crypt (MAP03 for Hexen: Community Pouch)|```🏁WIP```| |
-| 24 | Return To Castle Hexenstein (MAP06 for Hexen: Community Pouch)|```🏁WIP```| |
+| 23 | Underground (MAP03 for Hexen: Community Pouch)|✅RELEASED|v1 |
+| 24 | Return To Castle Hexenstein (MAP06 for Hexen: Community Pouch)|✅RELEASED|v1 |
 | 25 | Calamity|```🏁WIP```| |
 | 26 | Quake 2 Maps For Doom|```🧊FROZEN```| |
 | 27 | 'o' will be Destroyed (for Eternity Engine) | ```🧊FROZEN```| | 
