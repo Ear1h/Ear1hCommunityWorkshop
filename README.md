@@ -77,7 +77,7 @@ Soft: (`SFT-`):
 
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
-| 1 | [Hell 3emlya]() | ✅RELEASED  |v1.2 |
+| 1 | [Hell 3emlya](https://github.com/Ear1h/Hell-3emlya-Ear1h-Edition) | ✅RELEASED  |v1.2 |
 
 **If you want to support me (gandona) and my creativity:**
 
