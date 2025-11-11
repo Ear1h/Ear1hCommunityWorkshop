@@ -42,7 +42,7 @@ Wads: (`WAD-`):
 | 22 | [Homyachki in My Heart (Happy BD, Track Federal)](https://github.com/Ear1h/WAD-Homyachki)|✅RELEASED|v1|
 | 23 | [Underground (MAP03 for Hexen: Community Pouch)](https://github.com/Ear1h/WAD-HEXEN-UNDEGROUND)|✅RELEASED|v1 |
 | 24 | [Return To Castle Hexenstein (MAP06 for Hexen: Community Pouch)](https://github.com/Ear1h/WAD-HEXEN-RETURN)|✅RELEASED|v1 |
-| 25 | Calamity|```🏁WIP```| |
+| 25 | [Calam1ty (Calamity: Chapter One)]()|✅RELEASED|v1 |
 | 26 | Quake 2 Maps For Doom|```🧊FROZEN```| |
 | 27 | 'o' will be Destroyed (for Eternity Engine) | ```🧊FROZEN```| | 
 
@@ -77,7 +77,7 @@ Soft: (`SFT-`):
 
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
-| 1 | Hell 3emlya | ```🏁WIP```  | |
+| 1 | [Hell 3emlya] | ✅RELEASED  |v1.2 |
 
 **If you want to support me (gandona) and my creativity:**
 
