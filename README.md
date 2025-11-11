@@ -69,7 +69,7 @@ Community Projects (`CPL`):
 
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
-| 1 | Blitz: Race Against Time | ✅RELEASED | v3|
+| 1 | Blitz: Race Against Time | ✅RELEASED | v5|
 | 2 | Thy Mus Consumed | ```🧊FROZEN``` | |
 | 3 | Next Encounter | ```🧊FROZEN``` | |
 
@@ -77,7 +77,7 @@ Soft: (`SFT-`):
 
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
-| 1 | [Hell 3emlya] | ✅RELEASED  |v1.2 |
+| 1 | [Hell 3emlya]() | ✅RELEASED  |v1.2 |
 
 **If you want to support me (gandona) and my creativity:**
 
