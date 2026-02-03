@@ -50,8 +50,7 @@ Mods: (`MODS`):
 
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
-| 1 | Volcanic Eruption|```🏁WIP```|  |
-| 2 | Volcanic Eruption (ID24)|```🏁WIP```| |
+| 1 | Volcanic Eruption: R|✅RELEASED| Beta 2 |
 
 Quake: (`QUAKE-`):
 
