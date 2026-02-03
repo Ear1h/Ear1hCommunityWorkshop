@@ -71,6 +71,8 @@ Community Projects (`CPL`):
 | 1 | Blitz: Race Against Time | ✅RELEASED | v5|
 | 2 | Thy Mus Consumed | ```🧊FROZEN``` | |
 | 3 | Next Encounter | ```🧊FROZEN``` | |
+| 4 | Gray'N Building | ```🧊FROZEN``` | |
+| 5 | Echoes of Castle Wolfenstein | ```🧊FROZEN``` | |
 
 Soft: (`SFT-`):
 
