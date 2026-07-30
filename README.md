@@ -37,20 +37,28 @@ Wads: (`WAD-`):
 | 15 | The Death I That Deservioli (MAP08 for Who Is Who)|✅RELEASED|v1|
 | 16 | MAP07 Never Ends (Rejected map for Who Is Who)|✅RELEASED|v1|
 | 17 | City on Water (MAP09 for Doom Around The World)|✅RELEASED|v1|
-| 18-20 | My Maps for Blitz: Race Against Time|✅RELEASED|v1|
-| 21 | Earetic (E2M9 for Fastest Shovels 16: Heretics vs Pineapples|✅RELEASED|v1|
-| 22 | [Homyachki in My Heart (Happy BD, Track Federal)](https://github.com/Ear1h/WAD-Homyachki)|✅RELEASED|v1|
-| 23 | [Underground (MAP03 for Hexen: Community Pouch)](https://github.com/Ear1h/WAD-HEXEN-UNDEGROUND)|✅RELEASED|v1 |
-| 24 | [Return To Castle Hexenstein (MAP06 for Hexen: Community Pouch)](https://github.com/Ear1h/WAD-HEXEN-RETURN)|✅RELEASED|v1 |
-| 25 | [Calam1ty (Calamity: Chapter One)]()|✅RELEASED|v1 |
-| 26 | Quake 2 Maps For Doom|```🧊FROZEN```| |
-| 27 | 'o' will be Destroyed (for Eternity Engine) | ```🧊FROZEN```| | 
+| 18 | My Maps for Blitz: Race Against Time|✅RELEASED|v1|
+| 19 | Earetic (E2M9 for Fastest Shovels 16: Heretics vs Pineapples|✅RELEASED|v1|
+| 20 | [Homyachki in My Heart (Happy BD, Track Federal)](https://github.com/Ear1h/WAD-Homyachki)|✅RELEASED|v1|
+| 21 | [Underground (MAP03 for Hexen: Community Pouch)](https://github.com/Ear1h/WAD-HEXEN-UNDEGROUND)|✅RELEASED|v1 |
+| 22 | [Return To Castle Hexenstein (MAP06 for Hexen: Community Pouch)](https://github.com/Ear1h/WAD-HEXEN-RETURN)|✅RELEASED|v1 |
+| 23 | [Calam1ty (Calamity: Chapter One)]()|✅RELEASED|v1 |
+| 24 | Cryonic Facility (MAP10 from No Time 2 Freeze)|✅RELEASED|v1|
+| 25 | No Time 2 Wolfenstein (NT2F Mini-Episode)|✅RELEASED|v1|
+| 26 | No Time To Cry maps |✅RELEASED|v1|
+| 27 | Hydroelectric power plant (MAP07 from Grey Cat) |✅RELEASED|v1|
+| 28 | Brutalist Grey Cat (MAP10 from Grey Cat) |✅RELEASED|v1|
+| 29 | Press Garden Zone (MAP22 from Grey Cat) |✅RELEASED|v1|
+| 30 | Kittens lair (MAP25 from Grey Cat) |✅RELEASED|v1|
+| 31 | Timeless | ```🏁WIP```| |
+| 32 | Quake 2 Maps For Doom|```🧊FROZEN```| |
+| 33 | 'o' will be Destroyed (for Eternity Engine) | ```🧊FROZEN```| | 
 
 Mods: (`MODS`):
 
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
-| 1 | Volcanic Eruption: R|✅RELEASED| Beta 2 |
+| 1 | Volcanic Eruption: R|✅RELEASED| v1 |
 
 Quake: (`QUAKE-`):
 
@@ -69,9 +77,9 @@ Community Projects (`CPL`):
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
 | 1 | Blitz: Race Against Time | ✅RELEASED | v5|
-| 2 | Thy Mus Consumed | ```🧊FROZEN``` | |
-| 3 | Next Encounter | ```🧊FROZEN``` | |
-| 4 | Gray'N Building | ```🧊FROZEN``` | |
+| 2 | Grey Cat | ✅RELEASED | v1|
+| 3 | Thy Mus Consumed | ```🧊FROZEN``` | |
+| 4 | Next Encounter | ```🧊FROZEN``` | |
 | 5 | Echoes of Castle Wolfenstein | ```🧊FROZEN``` | |
 
 Soft: (`SFT-`):
@@ -79,6 +87,7 @@ Soft: (`SFT-`):
 | №  | Project name | Status | Version |
 | - | ------------ | ------- | ------- |
 | 1 | [Hell 3emlya](https://github.com/Ear1h/Hell-3emlya-Ear1h-Edition) | ✅RELEASED  |v1.2 |
+| 2 | Calamity Doom |  ```🏁WIP```| |
 
 **If you want to support me (gandona) and my creativity:**
 
